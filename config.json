@@ -1,0 +1,6 @@
+{
+    "tarifa_parado": 0.02,
+    "tarifa_movimiento": 0.05,
+    "moneda": "€",
+    "decimales": 2
+}

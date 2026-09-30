@@ -1,0 +1,12 @@
+2026-09-30 10:30:34 | INFO | ============================================================
+2026-09-30 10:30:34 | INFO | TAXÍMETRO DIGITAL - INICIO DE SESIÓN
+2026-09-30 10:30:34 | INFO | ============================================================
+2026-09-30 10:30:34 | INFO | Sistema iniciado correctamente
+2026-09-30 10:30:37 | INFO | Nueva carrera iniciada
+2026-09-30 10:30:43 | INFO | Estado cambiado a: MOVIMIENTO
+2026-09-30 10:30:46 | INFO | Intento de mover cuando ya estaba en movimiento
+2026-09-30 10:30:51 | INFO | Estado cambiado a: PARADO
+2026-09-30 10:30:54 | INFO | Intento de parar cuando ya estaba parado
+2026-09-30 10:30:56 | INFO | Estado cambiado a: MOVIMIENTO
+2026-09-30 10:30:58 | INFO | Carrera finalizada - Duración: 20.8s, Total: 0.70€
+2026-09-30 10:32:39 | INFO | Sistema cerrado por el usuario

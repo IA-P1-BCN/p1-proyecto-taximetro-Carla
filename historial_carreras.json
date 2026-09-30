@@ -1,0 +1,26 @@
+[
+  {
+    "fecha": "2026-09-30 10:12:08",
+    "duracion_segundos": 23.0,
+    "importe": 0.84,
+    "estado_final": "movimiento"
+  },
+  {
+    "fecha": "2026-09-30 10:13:03",
+    "duracion_segundos": 48.54,
+    "importe": 2.03,
+    "estado_final": "movimiento"
+  },
+  {
+    "fecha": "2026-09-30 10:30:58",
+    "duracion_segundos": 20.81,
+    "importe": 0.7,
+    "estado_final": "movimiento"
+  },
+  {
+    "fecha": "2026-09-30 10:33:04",
+    "duracion_segundos": 10.98,
+    "importe": 0.4,
+    "estado_final": "parado"
+  }
+]
